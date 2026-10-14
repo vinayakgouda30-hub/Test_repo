@@ -16,6 +16,6 @@ tis is vinayakgouda
  
 Editing in remote Github
 
-
-
 This is the new line added at 7.35pm
+
+New line added to check pollSMC trigger from Jenkins
